@@ -1,7 +1,5 @@
 # authentication
 
-User authentication boilerplate using the following tech stack
+Authentication boilerplates in repo branches
 
-- Passport
-- ExpressJS
-- MongoDB
+- Passport authentication with Node and Express
