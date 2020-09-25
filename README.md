@@ -1,5 +1,7 @@
 # authentication
 
-Authentication boilerplates in repo branches
+JWT authentication using the following tech stach
 
-- Passport authentication with Node and Express
+- JWT
+- NodeJS
+- ExpressJS
